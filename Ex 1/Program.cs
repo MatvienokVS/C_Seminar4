@@ -1,29 +1,31 @@
-﻿//Напишите программу, которая принимает на вход число и выдаёт количество цифр в числе.
-//456 -> 3
-//78 -> 2
-//89126 -> 5
+﻿// Напишите программу, реализующую метод,который принимает на вход два числа (A и B) и возводит число A в натуральную степень B с использованием цикла.
+//В задаче не использвать стандартный метод Pow!
 
 
 using static System.Console;
 Clear();
 
-Write("Введите число: ");
-int.TryParse(ReadLine(), out int num);
+Write("Введите число A: ");
+int.TryParse(ReadLine(), out int a);
+Write("Введите число B: ");
+int.TryParse(ReadLine(), out int b);
 
-int sum = CountDigit(num);
-WriteLine($"{sum}");
+WriteLine(NotPow(a, b));
 
 
 
-int CountDigit(int num)
+
+
+
+int NotPow(int num1, int num2)
 {
-	int result = 0;
+	int result = 1;
+	int count = 0;
 
-	while (Math.Abs(num) > 0)
+	while (count < Math.Abs(num2))
 	{
-		num /= 10;
-		result += 1;
+		result *= num1;
+		count++;
 	}
-
 	return result;
 }

@@ -1,0 +1,15 @@
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\bin\Debug\net7.0\Ex 2.exe
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\bin\Debug\net7.0\Ex 2.deps.json
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\bin\Debug\net7.0\Ex 2.runtimeconfig.json
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\bin\Debug\net7.0\Ex 2.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\bin\Debug\net7.0\Ex 2.pdb
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\Ex 2.csproj.AssemblyReference.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\Ex 2.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\Ex 2.AssemblyInfoInputs.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\Ex 2.AssemblyInfo.cs
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\Ex 2.csproj.CoreCompileInputs.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\Ex 2.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\refint\Ex 2.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\Ex 2.pdb
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\Ex 2.genruntimeconfig.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar4\Ex 2\obj\Debug\net7.0\ref\Ex 2.dll

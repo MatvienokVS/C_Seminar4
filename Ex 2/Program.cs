@@ -1,9 +1,27 @@
-﻿using static System.Console;
+﻿//Напишите программу, реализующую метод, который принимает на вход число и выдаёт сумму цифр в числе.
+
+using static System.Console;
 Clear();
 
+Write("Введите число: ");
+int.TryParse(ReadLine(), out int num);
 
-int.TryParse(Readline(), out int num);
-
-int[] array = new array[num];
+WriteLine(SummNumber(num));
 
 
+
+
+
+int SummNumber(int number)
+{
+	int result = 0;
+	int tempnumber = Math.Abs(number);
+
+	while (Math.Abs(tempnumber) > 0)
+	{
+		result += tempnumber % 10;
+		tempnumber = tempnumber / 10;
+	}
+
+	return result;
+}
